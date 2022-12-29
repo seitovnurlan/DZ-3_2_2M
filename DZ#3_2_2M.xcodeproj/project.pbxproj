@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		2848A089295E1873008C419A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2848A088295E1873008C419A /* main.swift */; };
+		2848A090295E1970008C419A /* Hospital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2848A08F295E1970008C419A /* Hospital.swift */; };
+		2848A092295E19A6008C419A /* Patient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2848A091295E19A6008C419A /* Patient.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		2848A085295E1873008C419A /* DZ#3_2_2M */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DZ#3_2_2M"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2848A088295E1873008C419A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		2848A08F295E1970008C419A /* Hospital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hospital.swift; sourceTree = "<group>"; };
+		2848A091295E19A6008C419A /* Patient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Patient.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				2848A088295E1873008C419A /* main.swift */,
+				2848A08F295E1970008C419A /* Hospital.swift */,
+				2848A091295E19A6008C419A /* Patient.swift */,
 			);
 			path = "DZ#3_2_2M";
 			sourceTree = "<group>";
@@ -121,6 +127,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2848A089295E1873008C419A /* main.swift in Sources */,
+				2848A090295E1970008C419A /* Hospital.swift in Sources */,
+				2848A092295E19A6008C419A /* Patient.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
